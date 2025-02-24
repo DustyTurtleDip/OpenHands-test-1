@@ -1,0 +1,6 @@
+Serving on port 50912
+192.168.1.250 - - [24/Feb/2025 16:15:33] "GET / HTTP/1.1" 200 -
+192.168.1.250 - - [24/Feb/2025 16:15:33] "GET /style.css HTTP/1.1" 200 -
+192.168.1.250 - - [24/Feb/2025 16:15:33] "GET /script.js HTTP/1.1" 200 -
+192.168.1.250 - - [24/Feb/2025 16:15:33] code 404, message File not found
+192.168.1.250 - - [24/Feb/2025 16:15:33] "GET /favicon.ico HTTP/1.1" 404 -
